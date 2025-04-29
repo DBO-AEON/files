@@ -1,0 +1,40 @@
+{
+  "version": "0.0.1",
+  "download": "https://drive.google.com/uc?export=download&id=1mWYjBkoef_MQBaQhwK9qoUSmqKdNQ2bT",
+  "modules": [
+    {
+      "name": "home_banner",
+      "files": [
+        {
+          "filename": "banner1.jpg",
+          "target": "header",
+          "format": "jpg",
+          "size": 204800
+        },
+        {
+          "filename": "banner2.jpg",
+          "target": "",
+          "format": "jpg",
+          "size": 198500
+        }
+      ]
+    },
+    {
+      "name": "profile_pictures",
+      "files": [
+        {
+          "filename": "default_male.png",
+          "target": "",
+          "format": "png",
+          "size": 102400
+        },
+        {
+          "filename": "default_female.png",
+          "target": "",
+          "format": "png",
+          "size": 99000
+        }
+      ]
+    }
+  ]
+}
