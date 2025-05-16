@@ -1,40 +1,28 @@
 {
-   "version":"0.0.1",
-   "download":"drive.google.com/uc?export=download&id=1mWYjBkoef_MQBaQhwK9qoUSmqKdNQ2bT",
-   "modules":[
-      {
-         "name":"home_banner",
-         "files":[
-            {
-               "filename":"banner1.jpg",
-               "target":"header",
-               "format":"jpg",
-               "size":204800
-            },
-            {
-               "filename":"banner2.jpg",
-               "target":"",
-               "format":"jpg",
-               "size":198500
-            }
-         ]
-      },
-      {
-         "name":"profile_pictures",
-         "files":[
-            {
-               "filename":"default_male.png",
-               "target":"",
-               "format":"png",
-               "size":102400
-            },
-            {
-               "filename":"default_female.png",
-               "target":"",
-               "format":"png",
-               "size":99000
-            }
-         ]
-      }
-   ]
+  "version": "0.0.1",
+  "download": "https://drive.google.com/uc?export=download&id=17w9fyvRqFnIsFgXBJTPk2cCLBvup0Khy",
+  "modules": [
+    {
+      "name": "dashboard",
+      "files": [
+        {
+          "filename": "9730f7a5a3408f138945552329041f17f0f509dea1c23e1b326b4f62adecceca",
+          "target": "background",
+          "format": "webp",
+          "size": 204800
+        }
+      ]
+    },
+    {
+      "name": "global",
+      "files": [
+        {
+          "filename": "3598ce6f965b2481fe26316c06b30950c46ac7f8e7229f104aa78f579997668d",
+          "target": "logo",
+          "format": "webp",
+          "size": 102400
+        }
+      ]
+    }
+  ]
 }
